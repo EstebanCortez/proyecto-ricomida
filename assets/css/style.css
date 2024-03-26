@@ -1,0 +1,46 @@
+body{ 
+    padding:0;
+    margin:0;
+    order:0;
+    font-family: "Cabin", sans-serif;
+}
+
+nav{
+    height: 60px;
+    background-color: #373a3c;
+}
+
+a.navbar-brand{
+    color: white;
+    font-family: 'Lobster';
+}
+
+a.nav-link{
+    font-size: 16px;
+    color:white;
+    font-family: "Cabin", sans-serif;
+
+}
+
+
+.titulo-newsletter{
+    height: 334px;
+    background-color: #DC3545;
+    text-align: center;
+    color:white;
+    font-family: "Cabin", sans-serif;
+}
+
+.titulo-newsletter h3{
+    font-family: 'Lobster';
+}
+
+
+
+footer{
+    font-family: 'Lobster';
+    height: 80px;
+    background-color: #373a3c;
+    color:white;
+}
+
